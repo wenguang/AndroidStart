@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">篮球计分器</string>
+    <string name="a_team">A 队</string>
+    <string name="b_team">B 队</string>
+    <string name="a_score">0</string>
+    <string name="b_score">0</string>
+    <string name="add1">+1</string>
+    <string name="add2">+2</string>
+    <string name="add3">+3</string>
+</resources>
