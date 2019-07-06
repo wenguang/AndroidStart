@@ -8,4 +8,6 @@
     <string name="add1">+1</string>
     <string name="add2">+2</string>
     <string name="add3">+3</string>
+    <string name="frush">清空</string>
+    <string name="undo">回撤</string>
 </resources>
