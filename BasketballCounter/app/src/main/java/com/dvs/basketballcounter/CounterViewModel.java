@@ -5,7 +5,7 @@ import androidx.lifecycle.ViewModel;
 
 public class CounterViewModel extends ViewModel {
 
-    public int number;
+//    public int number;
 
     private MutableLiveData<Integer> ATeamScore;
     private MutableLiveData<Integer> BTeamScore;
@@ -34,7 +34,7 @@ public class CounterViewModel extends ViewModel {
         BTeamScore.setValue(BTeamScore.getValue() + n);
     }
 
-    public void add() {
-        number += 1;
-    }
+//    public void add() {
+//        number += 1;
+//    }
 }
